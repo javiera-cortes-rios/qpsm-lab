@@ -1,0 +1,20 @@
+---
+title: "Opportunities"
+---
+
+We welcome motivated students interested in quantitative pharmacology, systems biology, mathematical modeling, computational biology, and experimental biochemistry.
+
+Potential research areas include:
+
+- mechanistic modeling of biological systems
+- enzyme kinetics and redox biology
+- quantitative systems pharmacology
+- antimicrobial adaptation and resistance
+- cell-state heterogeneity and pharmacological escape
+- model-informed experimental design
+
+Students with backgrounds in pharmacy, biochemistry, biotechnology, engineering, mathematics, data science, or related fields are encouraged to get in touch.
+
+## Contact
+
+Interested students can contact Javiera Cortés by email.

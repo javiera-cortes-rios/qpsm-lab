@@ -1,0 +1,53 @@
+---
+title: "Team"
+---
+
+## Principal Investigator
+
+### Javiera Cortés, PhD
+
+Assistant Professor  
+Pontificia Universidad Católica de Chile  
+Faculty of Chemistry and Pharmacy / School of Pharmacy
+
+Javiera is a pharmacist and PhD in Engineering Sciences with expertise in quantitative pharmacology, systems modeling, enzyme kinetics, redox biology, mathematical modeling, and experimental biochemistry.
+
+## Students and trainees
+
+Coming soon.
+
+## Collaborators
+
+### Pontificia Universidad Católica de Chile
+
+- **Camilo López-Alarcón**  
+  Faculty of Chemistry and Pharmacy
+
+- **Angélica Fierro**  
+  Faculty of Chemistry and Pharmacy
+
+- **Mario Faúndez**  
+  Faculty of Chemistry and Pharmacy
+
+- **Maria Rodriguez Fernandez**  
+  Institute for Biological and Medical Engineering
+
+- **Francisco Sahli**  
+  Institute for Biological and Medical Engineering
+
+- **Pedro Saa**  
+  Faculty of Engineering
+
+### International collaborators
+
+- **William J. Jusko**  
+  State University of New York at Buffalo, USA
+
+- **Rajat Desikan**  
+  Clinical Pharmacology & Pharmacometrics Systems and Tools, Platform Sciences, GSK, UK
+
+- **Fabian Fröhlich**  
+  The Francis Crick Institute, UK
+
+- **Ramón Hermida**  
+  Universidad de Vigo, Spain

@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "team.html",
+    "href": "team.html",
+    "title": "Team",
+    "section": "",
+    "text": "Assistant Professor\nPontificia Universidad Católica de Chile\nFaculty of Chemistry and Pharmacy / School of Pharmacy\nJaviera is a pharmacist and PhD in Engineering Sciences with expertise in quantitative pharmacology, systems modeling, enzyme kinetics, redox biology, mathematical modeling, and experimental biochemistry."
+  },
+  {
+    "objectID": "team.html#principal-investigator",
+    "href": "team.html#principal-investigator",
+    "title": "Team",
+    "section": "",
+    "text": "Assistant Professor\nPontificia Universidad Católica de Chile\nFaculty of Chemistry and Pharmacy / School of Pharmacy\nJaviera is a pharmacist and PhD in Engineering Sciences with expertise in quantitative pharmacology, systems modeling, enzyme kinetics, redox biology, mathematical modeling, and experimental biochemistry."
+  },
+  {
+    "objectID": "team.html#students-and-trainees",
+    "href": "team.html#students-and-trainees",
+    "title": "Team",
+    "section": "Students and trainees",
+    "text": "Students and trainees\nComing soon."
+  },
+  {
+    "objectID": "team.html#collaborators",
+    "href": "team.html#collaborators",
+    "title": "Team",
+    "section": "Collaborators",
+    "text": "Collaborators\n\nPontificia Universidad Católica de Chile\n\nCamilo López-Alarcón\nFaculty of Chemistry and Pharmacy\nAngélica Fierro\nFaculty of Chemistry and Pharmacy\nMario Faúndez\nFaculty of Chemistry and Pharmacy\nMaria Rodriguez Fernandez\nInstitute for Biological and Medical Engineering\nFrancisco Sahli\nInstitute for Biological and Medical Engineering\nPedro Saa\nFaculty of Engineering\n\n\n\nInternational collaborators\n\nWilliam J. Jusko\nState University of New York at Buffalo, USA\nRajat Desikan\nClinical Pharmacology & Pharmacometrics Systems and Tools, Platform Sciences, GSK, UK\nFabian Fröhlich\nThe Francis Crick Institute, UK\nRamón Hermida\nUniversidad de Vigo, Spain"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Selected Publications",
+    "section": "",
+    "text": "Cortés-Ríos, J., Ren, T., Hanan, N., Sher, A., Nader, A., Magee, M., Jusko, W.J., & Desikan, R. (2025). Hepatitis B in silico trials capture functional cure, indicate mechanistic pathways, and suggest prognostic biomarker signatures. Clinical Pharmacology & Therapeutics, 118(3), 600-612.\nCortés-Ríos, J. & Jusko, W.J. (2025). Insights into aldosterone regulation through pharmacokinetic-pharmacodynamic modeling of an aldosterone synthase inhibitor. Clinical Pharmacology & Therapeutics, 119(2), 414-426.\nCortés-Ríos, J., Sher, A., Magee, M., Jusko, W.J., & Desikan, R. (2025). A step-by-step workflow for performing in silico clinical trials with nonlinear mixed effect models. CPT: Pharmacometrics & Systems Pharmacology, 14(12), 1949-1964.\nCortés-Ríos, J., Rodriguez-Fernandez, M., Sorger, P.K., & Fröhlich, F. (2025). Dynamic modelling of cell cycle arrest through integrated single-cell and mathematical modelling approaches. PLOS Computational Biology, 21(10), e1012890.\nReyes, J.S., Cortés-Ríos, J., Fuentes-Lemus, E., Rodriguez-Fernandez, M., Davies, M.J., & López-Alarcón, C. (2024). Competitive oxidation of key pentose phosphate pathway enzymes modulates the fate of intermediates and NADPH production. Free Radical Biology and Medicine, S0891-5849.\nCortés-Ríos, J., Hermida, R.C., & Rodriguez-Fernandez, M. (2022). Dosing time optimization of antihypertensive medications by including the circadian rhythm in pharmacokinetic-pharmacodynamic models. PLOS Computational Biology, 18(11), e1010711.\nCortés-Ríos, J. & Rodriguez-Fernandez, M. (2021). Circadian rhythm of blood pressure of dipper and non-dipper patients with essential hypertension: a mathematical modeling approach. Frontiers in Physiology, 11, 1801.\n\n\n\n\nGoogle Scholar\nORCID"
+  },
+  {
+    "objectID": "publications.html#profiles",
+    "href": "publications.html#profiles",
+    "title": "Selected Publications",
+    "section": "",
+    "text": "Google Scholar\nORCID"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Quantitative Pharmacology and Systems Modeling Lab",
+    "section": "",
+    "text": "Quantitative Pharmacology and Systems Modeling Lab\n\n\nMechanistic modeling of biological adaptation, escape, and recovery"
+  },
+  {
+    "objectID": "index.html#about-the-lab",
+    "href": "index.html#about-the-lab",
+    "title": "Quantitative Pharmacology and Systems Modeling Lab",
+    "section": "About the lab",
+    "text": "About the lab\nWe investigate how biological systems dynamically respond to perturbations, using mechanistic models integrated with experimental data to predict adaptation, escape, and recovery.\nThe Quantitative Pharmacology and Systems Modeling Lab integrates quantitative pharmacology, systems modeling, enzyme kinetics, experimental biochemistry, and mathematical modeling to understand dynamic biological responses across molecular, cellular, and physiological scales.\nOur work aims to connect biological mechanisms with system-level behavior, supporting hypothesis generation, model-informed experimental design, and translational applications."
+  },
+  {
+    "objectID": "index.html#research-themes",
+    "href": "index.html#research-themes",
+    "title": "Quantitative Pharmacology and Systems Modeling Lab",
+    "section": "Research themes",
+    "text": "Research themes\nOur research is organized around three complementary biological systems, connected by a common quantitative framework: understanding how biological systems respond to perturbations through adaptation, escape, and recovery.\n\n\nEnzyme regulation and redox biology\nWe study how enzyme activity is regulated by substrate availability, cofactor interactions, and oxidative stress. A current focus is human glucose-6-phosphate dehydrogenase and its role in redox metabolism.\n\n\nCell-state heterogeneity and pharmacological escape\nWe develop population models to understand why genetically similar cells can respond differently to the same pharmacological perturbation, including arrest, escape, and recovery dynamics.\n\n\nAntimicrobial adaptation and reversibility\nWe aim to understand how bacterial populations adapt to antibiotic exposure and whether resistant phenotypes can be modulated or reversed through sequential perturbations."
+  },
+  {
+    "objectID": "index.html#modeling-approach",
+    "href": "index.html#modeling-approach",
+    "title": "Quantitative Pharmacology and Systems Modeling Lab",
+    "section": "Modeling approach",
+    "text": "Modeling approach\nOur work combines in vitro experimental data, literature-derived data, mechanistic mathematical models, parameter estimation, simulation, prediction, and model-informed experimental design."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Quantitative Pharmacology and Systems Modeling Lab\nPontificia Universidad Católica de Chile\nFaculty of Chemistry and Pharmacy / School of Pharmacy\nPrincipal Investigator: Javiera Cortés, PhD\nEmail: jacortes4@uc.cl\nLinkedIn: Javiera Cortés\nGitHub: GitHub profile\nORCID: ORCID"
+  },
+  {
+    "objectID": "opportunities.html",
+    "href": "opportunities.html",
+    "title": "Opportunities",
+    "section": "",
+    "text": "We welcome motivated students interested in quantitative pharmacology, systems biology, mathematical modeling, computational biology, and experimental biochemistry.\nPotential research areas include:\nStudents with backgrounds in pharmacy, biochemistry, biotechnology, engineering, mathematics, data science, or related fields are encouraged to get in touch."
+  },
+  {
+    "objectID": "opportunities.html#contact",
+    "href": "opportunities.html#contact",
+    "title": "Opportunities",
+    "section": "Contact",
+    "text": "Contact\nInterested students can contact Javiera Cortés by email."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Our research investigates how biological systems dynamically respond to perturbations, using mechanistic models integrated with experimental data to predict adaptation, escape, and recovery.\nWe combine quantitative pharmacology, systems modeling, experimental data, and mathematical modeling to connect biological mechanisms with dynamic behavior across molecular, cellular, and population scales."
+  },
+  {
+    "objectID": "research.html#research-themes",
+    "href": "research.html#research-themes",
+    "title": "Research",
+    "section": "Research themes",
+    "text": "Research themes\n\n\n\n\n\nEnzyme regulation and redox biology\nWe study how enzyme activity is regulated by substrate availability, cofactor interactions, and oxidative stress. A current focus is human glucose-6-phosphate dehydrogenase and its role in redox metabolism.\nThis line integrates enzyme kinetics, structural information, redox biology, and mechanistic modeling to understand how oxidative perturbations can modulate enzymatic activity and downstream metabolic responses.\n\n\n\n\n\n\n\nCell-state heterogeneity and pharmacological escape\nWe develop population models to understand why genetically similar cells can respond differently to the same pharmacological perturbation, including arrest, escape, and recovery dynamics.\nThis line focuses on dynamic cell-state transitions, heterogeneous drug responses, and the identification of subpopulations that may evade expected pharmacological effects.\n\n\n\n\n\n\n\nAntimicrobial adaptation and reversibility\nWe aim to understand how bacterial populations adapt to antibiotic exposure and whether resistant phenotypes can be modulated or reversed through sequential perturbations.\nThis line combines in vitro data, growth-response measurements, MIC-based readouts, and mechanistic models to study adaptation, resistance, re-sensitization, and recovery dynamics.\n\n\n\n\n\n\n\nModeling approach\nOur work combines in vitro experimental data, literature-derived data, quantitative readouts, and mechanistic mathematical models.\nWe use ordinary differential equations, parameter estimation, model calibration, simulation, prediction, sensitivity analysis, and model-informed experimental design to generate testable hypotheses and guide future experiments."
+  }
+]

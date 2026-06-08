@@ -1,0 +1,60 @@
+---
+title: ""
+page-layout: full
+title-block-banner: false
+---
+
+::: {.hero-banner}
+::: {.hero-content}
+
+<div class="hero-title">Quantitative Pharmacology and Systems Modeling Lab</div>
+
+<div class="hero-subtitle">Mechanistic modeling of biological adaptation, escape, and recovery</div>
+
+:::
+:::
+
+::: {.home-content}
+
+## About the lab
+
+We investigate how biological systems dynamically respond to perturbations, using mechanistic models integrated with experimental data to predict adaptation, escape, and recovery.
+
+The **Quantitative Pharmacology and Systems Modeling Lab** integrates quantitative pharmacology, systems modeling, enzyme kinetics, experimental biochemistry, and mathematical modeling to understand dynamic biological responses across molecular, cellular, and physiological scales.
+
+Our work aims to connect biological mechanisms with system-level behavior, supporting hypothesis generation, model-informed experimental design, and translational applications.
+
+## Research themes
+
+Our research is organized around three complementary biological systems, connected by a common quantitative framework: understanding how biological systems respond to perturbations through adaptation, escape, and recovery.
+
+::: {.theme-grid}
+
+::: {.theme-card .theme-blue}
+### Enzyme regulation and redox biology
+
+We study how enzyme activity is regulated by substrate availability, cofactor interactions, and oxidative stress. A current focus is human glucose-6-phosphate dehydrogenase and its role in redox metabolism.
+
+:::
+
+::: {.theme-card .theme-green}
+### Cell-state heterogeneity and pharmacological escape
+
+We develop population models to understand why genetically similar cells can respond differently to the same pharmacological perturbation, including arrest, escape, and recovery dynamics.
+
+:::
+
+::: {.theme-card .theme-red}
+### Antimicrobial adaptation and reversibility
+
+We aim to understand how bacterial populations adapt to antibiotic exposure and whether resistant phenotypes can be modulated or reversed through sequential perturbations.
+
+:::
+
+:::
+
+## Modeling approach
+
+Our work combines **in vitro experimental data**, **literature-derived data**, mechanistic mathematical models, parameter estimation, simulation, prediction, and model-informed experimental design.
+
+:::

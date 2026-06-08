@@ -1,0 +1,25 @@
+---
+title: ""
+title-block-banner: false
+---
+
+# Selected Publications
+
+- Cortés-Ríos, J., Ren, T., Hanan, N., Sher, A., Nader, A., Magee, M., Jusko, W.J., & Desikan, R. (2025). Hepatitis B in silico trials capture functional cure, indicate mechanistic pathways, and suggest prognostic biomarker signatures. *Clinical Pharmacology & Therapeutics*, 118(3), 600-612.
+
+- Cortés-Ríos, J. & Jusko, W.J. (2025). Insights into aldosterone regulation through pharmacokinetic-pharmacodynamic modeling of an aldosterone synthase inhibitor. *Clinical Pharmacology & Therapeutics*, 119(2), 414-426.
+
+- Cortés-Ríos, J., Sher, A., Magee, M., Jusko, W.J., & Desikan, R. (2025). A step-by-step workflow for performing in silico clinical trials with nonlinear mixed effect models. *CPT: Pharmacometrics & Systems Pharmacology*, 14(12), 1949-1964.
+
+- Cortés-Ríos, J., Rodriguez-Fernandez, M., Sorger, P.K., & Fröhlich, F. (2025). Dynamic modelling of cell cycle arrest through integrated single-cell and mathematical modelling approaches. *PLOS Computational Biology*, 21(10), e1012890.
+
+- Reyes, J.S., Cortés-Ríos, J., Fuentes-Lemus, E., Rodriguez-Fernandez, M., Davies, M.J., & López-Alarcón, C. (2024). Competitive oxidation of key pentose phosphate pathway enzymes modulates the fate of intermediates and NADPH production. *Free Radical Biology and Medicine*, S0891-5849.
+
+- Cortés-Ríos, J., Hermida, R.C., & Rodriguez-Fernandez, M. (2022). Dosing time optimization of antihypertensive medications by including the circadian rhythm in pharmacokinetic-pharmacodynamic models. *PLOS Computational Biology*, 18(11), e1010711.
+
+- Cortés-Ríos, J. & Rodriguez-Fernandez, M. (2021). Circadian rhythm of blood pressure of dipper and non-dipper patients with essential hypertension: a mathematical modeling approach. *Frontiers in Physiology*, 11, 1801.
+
+## Profiles
+
+- [Google Scholar](https://scholar.google.com/citations?user=VOCwBtYAAAAJ&hl=es&oi=ao)
+- [ORCID](https://orcid.org/0000-0002-1501-8081)

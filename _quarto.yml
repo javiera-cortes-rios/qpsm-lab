@@ -1,0 +1,39 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Quantitative Pharmacology and Systems Modeling Lab"
+  site-url: "https://javiera-cortes-rios.github.io/qpsm-lab/"
+  navbar:
+    background: "#0b1f3a"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: team.qmd
+        text: Team
+      - href: opportunities.qmd
+        text: Opportunities
+      - href: contact.qmd
+        text: Contact
+    right:
+      - icon: github
+        href: https://github.com/javiera-cortes-rios
+      - icon: linkedin
+        href: https://www.linkedin.com/in/cortesriosj/
+      - icon: envelope
+        href: mailto:jacortes4@uc.cl
+  page-footer:
+    left: "© Javiera Cortés"
+    right: "Quantitative Pharmacology and Systems Modeling Lab"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    page-layout: full
