@@ -2,11 +2,11 @@
 title: "Research"
 ---
 
-Our research investigates how biological systems dynamically respond to perturbations, using mechanistic models integrated with experimental data to predict adaptation, escape, and recovery.
+Our research applies mathematical modeling, quantitative pharmacology, and experimental characterization to understand how biological systems respond to perturbations.
 
-We combine **quantitative pharmacology**, **systems modeling**, **experimental data**, and **mathematical modeling** to connect biological mechanisms with dynamic behavior across molecular, cellular, and population scales.
+We are particularly interested in dynamic processes involving adaptation, escape, and recovery, and in using mechanistic models to connect experimental observations with biological mechanisms.
 
-## Research themes
+## Current research applications
 
 ::: {.research-row}
 
@@ -18,7 +18,7 @@ We combine **quantitative pharmacology**, **systems modeling**, **experimental d
 
 ### Enzyme regulation and redox biology
 
-We study how enzyme activity is regulated by substrate availability, cofactor interactions, and oxidative stress. A current focus is **human glucose-6-phosphate dehydrogenase** and its role in redox metabolism.
+We study how enzyme activity is regulated by substrate availability, cofactor interactions, and oxidative stress. A current focus is **human glucose-6-phosphate dehydrogenase** and its role in redox metabolism and hemolytic anemia.
 
 This line integrates enzyme kinetics, structural information, redox biology, and mechanistic modeling to understand how oxidative perturbations can modulate enzymatic activity and downstream metabolic responses.
 
@@ -72,7 +72,7 @@ This line combines in vitro data, growth-response measurements, MIC-based readou
 
 ### Modeling approach
 
-Our work combines **in vitro experimental data**, **literature-derived data**, quantitative readouts, and mechanistic mathematical models.
+Across these systems, we combine **in vitro experimental data**, **literature-derived data**, quantitative readouts, and mechanistic mathematical models.
 
 We use ordinary differential equations, parameter estimation, model calibration, simulation, prediction, sensitivity analysis, and model-informed experimental design to generate testable hypotheses and guide future experiments.
 

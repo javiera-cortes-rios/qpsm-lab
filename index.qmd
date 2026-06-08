@@ -24,30 +24,30 @@ The **Quantitative Pharmacology and Systems Modeling Lab** integrates quantitati
 
 Our work aims to connect biological mechanisms with system-level behavior, supporting hypothesis generation, model-informed experimental design, and translational applications.
 
-## Research themes
+## Research lines
 
-Our research is organized around three complementary biological systems, connected by a common quantitative framework: understanding how biological systems respond to perturbations through adaptation, escape, and recovery.
+Our research is organized around three complementary lines that connect mathematical modeling, quantitative pharmacology, and experimental characterization of biological systems.
 
 ::: {.theme-grid}
 
 ::: {.theme-card .theme-blue}
-### Enzyme regulation and redox biology
+### Mathematical modeling of biological systems
 
-We study how enzyme activity is regulated by substrate availability, cofactor interactions, and oxidative stress. A current focus is human glucose-6-phosphate dehydrogenase and its role in redox metabolism.
+We develop mathematical and computational models to understand the dynamics of biological systems and their responses to perturbations across molecular, cellular, and physiological scales.
 
 :::
 
 ::: {.theme-card .theme-green}
-### Cell-state heterogeneity and pharmacological escape
+### Quantitative pharmacology
 
-We develop population models to understand why genetically similar cells can respond differently to the same pharmacological perturbation, including arrest, escape, and recovery dynamics.
+We use quantitative pharmacology approaches to integrate experimental data with mechanistic models, supporting simulation, prediction, and model-informed experimental design.
 
 :::
 
 ::: {.theme-card .theme-red}
-### Antimicrobial adaptation and reversibility
+### Biologics and recombinant proteins
 
-We aim to understand how bacterial populations adapt to antibiotic exposure and whether resistant phenotypes can be modulated or reversed through sequential perturbations.
+We study the structural, kinetic, and functional properties of biologics and recombinant proteins, with the goal of linking structure, dynamics, and biological effect through model-guided experimental optimization.
 
 :::
 
