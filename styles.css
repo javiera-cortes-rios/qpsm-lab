@@ -60,11 +60,12 @@ img {
 .hero-banner {
   position: relative;
   overflow: hidden;
-  min-height: 390px;
+  min-height: 300px;
+  max-width: 1320px;
+  margin: 1.8rem auto 2.6rem auto;
   display: flex;
   align-items: center;
   justify-content: center;
-  margin: 0 0 2.5rem 0;
   border-radius: 0 0 18px 18px;
 }
 
@@ -74,18 +75,18 @@ img {
   inset: 0;
   background:
     linear-gradient(
-      rgba(255, 255, 255, 0.16),
-      rgba(255, 255, 255, 0.16)
+      rgba(255, 255, 255, 0.18),
+      rgba(255, 255, 255, 0.18)
     ),
     linear-gradient(
-      rgba(7, 24, 48, 0.15),
-      rgba(7, 24, 48, 0.28)
+      rgba(7, 24, 48, 0.10),
+      rgba(7, 24, 48, 0.22)
     ),
     url("images/banner.png");
   background-size: cover;
   background-position: center top;
   background-repeat: no-repeat;
-  filter: saturate(0.62) brightness(1.18) contrast(0.92);
+  filter: saturate(0.58) brightness(1.18) contrast(0.90);
   transform: scale(1.01);
 }
 
@@ -94,54 +95,31 @@ img {
   z-index: 2;
   text-align: center;
   color: white;
-  max-width: 1000px;
-  padding: 3rem 2rem;
+  max-width: 980px;
+  padding: 2.2rem 2rem;
 }
 
 .hero-title {
   display: block;
   color: #ffffff;
-  font-size: 2.9rem;
-  font-weight: 700;
-  line-height: 1.15;
-  margin-bottom: 0.9rem;
+  font-size: 2.35rem;
+  font-weight: 650;
+  line-height: 1.18;
+  margin-bottom: 0.75rem;
   text-align: center;
-  text-shadow: 0 2px 7px rgba(0, 0, 0, 0.35);
+  text-shadow: 0 2px 6px rgba(0, 0, 0, 0.30);
 }
 
 .hero-subtitle {
   display: block;
   color: #eef4fb;
-  font-size: 1.35rem;
+  font-size: 1.15rem;
   font-weight: 400;
   font-style: italic;
   line-height: 1.35;
   text-align: center;
-  text-shadow: 0 1px 5px rgba(0, 0, 0, 0.25);
+  text-shadow: 0 1px 4px rgba(0, 0, 0, 0.22);
 }
-
-/* Old h1/h2 hero fallback, in case markdown headings are used */
-.hero-content h1 {
-  display: block;
-  color: #ffffff;
-  font-size: 2.9rem;
-  font-weight: 700;
-  margin-bottom: 0.8rem;
-  line-height: 1.15;
-  text-shadow: 0 2px 7px rgba(0, 0, 0, 0.32);
-}
-
-.hero-content h2 {
-  display: block;
-  color: #eef4fb;
-  font-size: 1.35rem;
-  font-weight: 400;
-  font-style: italic;
-  margin-top: 0;
-  line-height: 1.35;
-  text-shadow: 0 1px 5px rgba(0, 0, 0, 0.24);
-}
-
 /* ===============================
    Home content wrapper
    =============================== */
